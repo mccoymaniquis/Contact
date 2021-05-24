@@ -1,0 +1,29 @@
+table , th , td {
+  border: 1px solid #000;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+tbody tr , td{
+  border: 1px solid #000;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+table {
+  flex: 10;
+}
+
+.table-header {
+  display: flex;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.myBtn {
+  display: inline-block;
+  border: none;
+  background: #555;
+  color: #fff;
+  padding: 7px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
